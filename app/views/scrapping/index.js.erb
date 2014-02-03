@@ -1,0 +1,3 @@
+$("#paginate_data").html("<%= escape_javascript( render(:partial => "site_images", locals: {images: @images,site_content: @site_content}) ) %>");
+$(".header").prop('display', 'block');
+$(".site_title").html("<%= @site_content[:title] if @site_content %>");

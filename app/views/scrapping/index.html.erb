@@ -1,0 +1,15 @@
+<h1>Site Scrapping</h1>
+<%= form_tag root_path, :method => "get", :html => { :class => 'navbar-form navbar-search pull-left search_form'},remote: true  do |f| %>
+    <%= url_field_tag 'search_url','' , placeholder:"Enter your URL here", class: "search-query"%>
+    <%= button_tag "Submit", :id => "submit_url",:data => { :disable_with =>  "Please wait..." }, :class => "btn" %>
+
+<%end%>
+
+
+<div id="paginate_data">
+<%= render partial: "site_images" %>
+</div>
+
+<%= javascript_include_tag 'scrapping.js' %>
+
+

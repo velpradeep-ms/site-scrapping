@@ -1,0 +1,15 @@
+
+<h1 class="header" style="display: none">Scrapped Content</h1>
+<div id="site_content_info">
+<h2 class="site_title ">
+  <%= @site_content[:title] if @site_content.present? %>
+</h2>
+
+</div>
+
+<% if @images.present?%>
+    <% @images.each do |img| %>
+        <%= image_tag "#{img}" , :class => "img-responsive img-rounded" %>
+    <%end%>
+    <%= paginate @images if @images %>
+<%end%>
