@@ -7,7 +7,7 @@ class Scrapper
   # check the specifc site folder exists If it's reuse or else create the new directory with that url name
   def self.check_folder_exists_and_create name
     folder_exists = Dir.exists?("#{Rails.root}/app/assets/images/#{name}")
-    Dir.mkdir("#{Rails.root}/app/assets/images/#{@file_header}") if !folder_exists
+    Dir.mkdir("#{Rails.root}/app/assets/images/#{name}") if !folder_exists
     return folder_exists
   end
 
