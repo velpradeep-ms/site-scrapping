@@ -35,6 +35,7 @@ gem "less-rails"
 gem "twitter-bootstrap-rails"
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
+gem "heroku"
 #gem 'debugger'
 
 group :doc do
@@ -44,6 +45,7 @@ end
 
 group :production do
   gem 'pg'
+  gem 'thin'
 end
 
 # Use ActiveModel has_secure_password
