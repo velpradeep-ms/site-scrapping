@@ -31,6 +31,7 @@ class Scrapper
     folder_name = URI.parse(params[:search_url]).host.gsub(/www\./, '').gsub('.', '_')
     check_folder_exists_and_create folder_name
     content_data = {}
+    #debugger
     site_info = Nokogiri::HTML(open(params[:search_url]))
     content_data[:title] = site_info.css("title")[0].text
     if params[:page].present?
