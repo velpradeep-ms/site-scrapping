@@ -3,7 +3,7 @@ SiteScrapping::Application.routes.draw do
   # See how all your routes lay out with "rake routes".
   resources :scrapping
   # You can have the root of your site routed with "root"
-   root 'scrapping#index'
+   root 'profile_informations#index'
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'

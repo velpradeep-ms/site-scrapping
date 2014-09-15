@@ -36,8 +36,15 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.6.3)
+    columnize (0.8.9)
     commonjs (0.2.7)
     daemons (1.1.9)
+    debugger (1.6.1)
+      columnize (>= 0.3.1)
+      debugger-linecache (~> 1.2.0)
+      debugger-ruby_core_source (~> 1.2.3)
+    debugger-linecache (1.2.0)
+    debugger-ruby_core_source (1.2.3)
     erubis (2.7.0)
     eventmachine (1.0.3)
     excon (0.33.0)
@@ -155,6 +162,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
+  debugger
   heroku
   jbuilder (~> 1.2)
   jquery-rails

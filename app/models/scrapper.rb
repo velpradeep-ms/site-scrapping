@@ -32,20 +32,36 @@ class Scrapper
     check_folder_exists_and_create folder_name
     content_data = {}
     #debugger
-    site_info = Nokogiri::HTML(open(params[:search_url]))
-    content_data[:title] = site_info.css("title")[0].text
-    if params[:page].present?
-      images = fetch_images_from_directory folder_name
-    else
-      images = []
-      site_info.xpath("//img/@src").each_with_index do |src, index|
-        uri = make_absolute(src,params[:search_url])
-        image_data = download_images folder_name, uri, index
-        images.push image_data
+    begin
+      site_info = Nokogiri::HTML(open(params[:search_url]))
+      content_data[:title] = site_info.css("title")[0].text
+      if params[:page].present?
+        images = fetch_images_from_directory folder_name
+      else
+        images = []
+        site_info.xpath("//img/@src").each_with_index do |src, index|
+          uri = make_absolute(src,params[:search_url])
+          begin
+            image_data = download_images folder_name, uri, index
+            images.push image_data
+          rescue
+            next
+          end
+
+        end
       end
+    rescue  RuntimeError,SocketError => error_msg
+      error_msg = error_message_notifier(error_msg.class)
     end
-    @images = Kaminari.paginate_array(images).page(params[:page]).per(PER_PAGE)
-   return @images,content_data
+
+    @images = images.present? ?  Kaminari.paginate_array(images).page(params[:page]).per(PER_PAGE) : error_msg
+    return @images,content_data
+  end
+
+  def self.error_message_notifier type
+   error_hash = Hash[SocketError,"Entered Web URL is not available...",RuntimeError,"Problem with connecting the Remote site..."]
+   error_msg =  error_hash[type].present? ? error_hash[type] : "Problem with Fetching Images"
+   return error_msg
   end
 
 end
