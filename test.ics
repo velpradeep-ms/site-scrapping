@@ -1,0 +1,506 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Teamup Solutions AG//Teamup Calendar//EN
+METHOD:PUBLISH
+X-WR-CALNAME:Event Calendar | Academic Calendar Registrar > Queens\, Staten
+  Island\, Manhattan\, Hauppauge
+X-WR-CALDESC:Public Version-3508993
+X-PUBLISHED-TTL:PT15M
+BEGIN:VTIMEZONE
+TZID:America/New_York
+TZURL:http://tzurl.org/zoneinfo-outlook/America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:TU202923934
+DTSTART;VALUE=DATE:20181101
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20181102
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923934
+SUMMARY:All Saint's Day – No Classes (Queens\, Staten Island\, Manhattan\
+ , Hauppauge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Human Resources\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185444Z
+LAST-MODIFIED:20190110T211347Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923935
+DTSTART;VALUE=DATE:20181109
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20181110
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923935
+SUMMARY:Last Day to Withdraw from a Class or Apply for Pass/Fail Option (Fa
+ ll Session) (Queens\, Staten Island\, Manhattan\, Hauppauge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185444Z
+LAST-MODIFIED:20180801T185704Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923936
+DTSTART;VALUE=DATE:20181112
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20181113
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923936
+SUMMARY:Veterans Day Observed – No Classes (Queens\, Staten Island\, Manh
+ attan\, Hauppauge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185444Z
+LAST-MODIFIED:20190110T205008Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923938
+DTSTART;VALUE=DATE:20181121
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20181125
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923938
+SUMMARY:Thanksgiving Recess – No Classes (Queens\, Staten Island\, Manhat
+ tan\, Hauppauge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185444Z
+LAST-MODIFIED:20190110T205612Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923939
+DTSTART;VALUE=DATE:20181208
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20181209
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923939
+SUMMARY:Feast of the Immaculate Conception - No Classes (Queens\, Staten Is
+ land\, Manhattan\, Hauppauge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185444Z
+LAST-MODIFIED:20190110T205745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923940
+DTSTART;VALUE=DATE:20181212
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20181213
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923940
+SUMMARY:Snow/Study Day (Queens\, Staten Island\, Manhattan\, Hauppauge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185444Z
+LAST-MODIFIED:20180801T185721Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923941
+DTSTART;VALUE=DATE:20181213
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20181220
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923941
+SUMMARY:Final Examination Week (Queens\, Staten Island\, Manhattan\, Hauppa
+ uge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185444Z
+LAST-MODIFIED:20180801T185724Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923942
+DTSTART;VALUE=DATE:20190121
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20190122
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923942
+SUMMARY:Martin Luther King\, Jr. Day – No Classes (Queens\, Staten Island
+ \, Manhattan\, Hauppauge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185444Z
+LAST-MODIFIED:20190110T210048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923943
+DTSTART;VALUE=DATE:20190123
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20190124
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923943
+SUMMARY:First Day of Classes (Spring Session) (Queens\, Staten Island\, Man
+ hattan\, Hauppauge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185444Z
+LAST-MODIFIED:20180801T185734Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923944
+DTSTART;VALUE=DATE:20190129
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20190130
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923944
+SUMMARY:Last Day to Add/Drop Classes (Spring Session) (Queens\, Staten Isla
+ nd\, Manhattan\, Hauppauge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185445Z
+LAST-MODIFIED:20180801T185736Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923945
+DTSTART;VALUE=DATE:20190212
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20190213
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923945
+SUMMARY:Last Day to Drop a Class (without a transcript notation) (Spring Se
+ ssion) (Queens\, Staten Island\, Manhattan\, Hauppauge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185445Z
+LAST-MODIFIED:20180801T185739Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923946
+DTSTART;VALUE=DATE:20190213
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20190214
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923946
+SUMMARY:Withdrawal Period Begins (Spring Session) (Queens\, Staten Island\,
+  Manhattan\, Hauppauge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185445Z
+LAST-MODIFIED:20180801T185746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923947
+DTSTART;VALUE=DATE:20190218
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20190219
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923947
+SUMMARY:President's Day – No Classes (Queens\, Staten Island\, Manhattan\
+ , Hauppauge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185445Z
+LAST-MODIFIED:20190110T210121Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923948
+DTSTART;VALUE=DATE:20190220
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20190221
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923948
+SUMMARY:Monday Classes Meet (Queens\, Staten Island\, Manhattan\, Hauppauge
+ )
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185445Z
+LAST-MODIFIED:20180801T185755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923949
+DTSTART;VALUE=DATE:20190304
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20190310
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923949
+SUMMARY:Spring Break – No Classes (Queens\, Staten Island\, Manhattan\, H
+ auppauge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185445Z
+LAST-MODIFIED:20180801T185757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923950
+DTSTART;VALUE=DATE:20190405
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20190406
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923950
+SUMMARY:Last day to Withdraw from a Class of Apply for a Pass/Fail Option (
+ Spring Session) (Queens\, Staten Island\, Manhattan\, Hauppauge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185445Z
+LAST-MODIFIED:20190110T210338Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923951
+DTSTART;VALUE=DATE:20190418
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20190423
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923951
+SUMMARY:Easter Recess – No Classes (Queens\, Staten Island\, Manhattan\, 
+ Hauppauge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185445Z
+LAST-MODIFIED:20190110T210350Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923952
+DTSTART;VALUE=DATE:20190507
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20190508
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923952
+SUMMARY:Snow/Study Day (Queens\, Staten Island\, Manhattan\, Hauppauge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185445Z
+LAST-MODIFIED:20180801T185804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923954
+DTSTART;VALUE=DATE:20190508
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20190509
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923954
+SUMMARY:Snow/Study Day (Queens\, Staten Island\, Manhattan\, Hauppauge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185445Z
+LAST-MODIFIED:20180801T185807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU202923955
+DTSTART;VALUE=DATE:20190509
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20190516
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/202923955
+SUMMARY:Final Examination Week (Queens\, Staten Island\, Manhattan\, Hauppa
+ uge)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20180801T185445Z
+LAST-MODIFIED:20180801T185809Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU265848503
+DTSTART;VALUE=DATE:20181016
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20181017
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/265848503
+SUMMARY:Mid-term grades due (Queens\, Staten Island\, Manhattan\, Hauppage)
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Faculty\, Students\n\nBy Invitation Only: Open Invitation\n\nRegistra
+ tion Required: No Registration Required\n\nDept/Area Event Manager: Regist
+ rar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20190110T204522Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU265853632
+DTSTART;VALUE=DATE:20181211
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20181212
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/265853632
+SUMMARY:Last Day of Classes (Queens\, Staten Island\, Manhattan\, Hauppauge
+ )
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20190110T205820Z
+LAST-MODIFIED:20190110T205833Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TU265855345
+DTSTART;VALUE=DATE:20190316
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20190317
+URL:https://teamup.com/event/show/key/ksqjxw886jje5f3mpm/event_id/265855345
+SUMMARY:Mid-Term Grades Due (Queens\, Staten Island\, Manhattan\, Hauppauge
+ )
+CLASS:PUBLIC
+DESCRIPTION:Campus: Queens\, Staten Island\, Manhattan\, Hauppauge\n\nAudie
+ nce: Students\n\nBy Invitation Only: Open Invitation\n\nRegistration Requi
+ red: No Registration Required\n\nComplimentary: Complimentary\n\nDept/Area
+  Event Manager: Registrar\n\n
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Academic Calendar Registrar > Queens Staten Island Manhattan Hau
+ ppauge
+DTSTAMP:20190412T140634Z
+CREATED:20190110T210159Z
+LAST-MODIFIED:20190110T210307Z
+END:VEVENT
+END:VCALENDAR
